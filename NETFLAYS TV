@@ -468,3 +468,91 @@ https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="deportes", Unbeaten
 https://unbeaten-roku.amagi.tv:443/playlist1080p.m3u8
+
+#EXTINF:-1,CANAL 5 INTERNACIONAL
+https://59537faa0729a.streamlock.net/cincotv/cincotv/chunklist_w1929417332.m3u8
+
+#EXTINF:-1,canal visión dorada
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
+#ECTINF:-1, RETRO PLUS
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w1499306082.m3u8?WebM3UCL
+
+#EXTINF:-1,IU TV
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8
+
+#EXTINF:-1,RETRO PLAY TV
+https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, A3CINE
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-480.m3u8
+
+#EXTINF:-1, TU CINE PLEX
+https://tucine-plex.amagi.tv/TuCine-xumo/master_6.m3u8
+
+#EXTINF:-1, CINE SUREÑO
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_6.m3u8
+
+#EXTINF:-1,top cine
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_6.m3u8
+
+#EXTINF:-1,my Time movie NETWORK 
+https://appletree-mytimespain-rakuten.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1, Cine clásico PLUTO TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1,cine Real PLEX
+https://cinereal-plex.amagi.tv/CineReal/master_1.m3u8
+
+#EXTINF:-1,mi TV clásica
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+
+#EXTINF:-1,el canal 54
+http://190.3.169.119:8080/latina/latina/chunklist_w181650625.m3u8
+
+#EXTINF:-1,canal 74
+https://stmv1.zcastbr.com/canal74hd/canal74hd/chunklist_w893037896.m3u8
+
+#EXTINF:-1,fuego TV
+https://video.misistemareseller.com/Fuegotv/Fuegotv/chunklist_w1482703670.m3u8
+
+#EXTINF:-1,VALLEVISION TV
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
+
+#EXTINF:-1, TELESISTEMA
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+
+#EXTINF:-1,WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w632867999.m3u8
+
+#EXTINF:-1, EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w1766560627.m3u8
+
+#EXTINF:-1, CENTRAL TV
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/chunklist_w1330831374.m3u8
+
+#EXTINF:-1,POP TV
+https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, TELENORD 8
+http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist_w1335699580.m3u8
+
+#EXTINF:-1, TELENORD 10
+http://newyorkstream.ddns.net:5854/telenord10/telenord10/chunklist_w308846127.m3u8
+
+#EXTINF:-1, TELENORD 12
+http://newyorkstream.ddns.net:5854/telenord12/telenord12/chunklist_w1705059640.m3u8
+
+#EXTINF:-1,EVA VISION RETRO
+https://stmv2.voxtvhd.com.br/evaretro/evaretro/chunklist_w1589096176.m3u8
+
+#EXTINF:-1,SF TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4d2891-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd9d9781-2910-4dd2-9b1f-a1fd662d0cc3&userId=&serverSideAds=true
+
+#EXTINF:-1,MOVIE FE
+https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w1404819268.m3u8
+
+#EXTINF:-1,
+
+
