@@ -515,9 +515,15 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w11450472
 #EXTINF:-1 tvg-logo="https://images" group-title="musica",TV exitos
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 
-#EXTINF:-1 tvg-logo="https://images" group-title="deportes",
-#EXTINF:-1 tvg-logo="https://images" group-title="deportes",
-#EXTINF:-1 tvg-logo="https://images" group-title="deportes",
+#EXTINF:-1 tvg-logo="https://images" group-title="España",ATR3S series
+http://hls.webredirect.org/e8fs/mp_6920.php/https://directo.atresmedia.com/c247ad4f9d1eaafbbdcf7c3d0f40e4a1cb689a17_1668208920/geoa3series/bitrate_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://images" group-title="deportes", BARCA TV 
+https://streamamg-fcbar01.akamaized.net/hls/live/2040130/0_fcq6zq7g/480p/hdntl=exp=1668275611~acl=%2f*~data=hdntl~hmac=8542537662d261aef4b21a501107d26be6a3e8a0a691d9f419481b3018daa756/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images" group-title="musica",xlmusica
+https://cloud2.streaminglivehd.com:443/8098/8098/chunklist_w1261006874.m3u8
+
 #EXTINF:-1 tvg-logo="https://images" group-title="deportes",
 #EXTINF:-1 tvg-logo="https://images" group-title="deportes",
 #EXTINF:-1 tvg-logo="https://images" group-title="deportes",
