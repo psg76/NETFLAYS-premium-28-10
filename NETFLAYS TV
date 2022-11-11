@@ -509,8 +509,12 @@ https://cloud2.streaminglivehd.com:1936/8014/8014/chunklist_w1636475039.m3u8
 #EXTINF:-1 tvg-logo="https://images" group-title="musica",power HD TV
 http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/chunklist_w1656362089.m3u8
 
-#EXTINF:-1 tvg-logo="https://images" group-title="deportes",
-#EXTINF:-1 tvg-logo="https://images" group-title="deportes",
+#EXTINF:-1 tvg-logo="https://images" group-title="musica",musica top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1145047280_b2028000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://images" group-title="musica",TV exitos
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
+
 #EXTINF:-1 tvg-logo="https://images" group-title="deportes",
 #EXTINF:-1 tvg-logo="https://images" group-title="deportes",
 #EXTINF:-1 tvg-logo="https://images" group-title="deportes",
