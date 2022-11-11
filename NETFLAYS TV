@@ -491,12 +491,27 @@ http://204.12.211.210:1935/conectatv/conectatv/chunklist_w1244398231.m3u8
 #EXTINF:-1 tvg-logo="https://images" group-title="musica",canal 38 musica
 https://rtmp.info/canal38/envivo/chunklist_w1233024836.m3u8
 
-#EXTINF:-1 tvg-logo="https://images" group-title="deportes",
+#EXTINF:-1 tvg-logo="https://images" group-title="musica",alegría TV musica
+https://593b04c4c5670.streamlock.net/8192/8192/chunklist_w1497702202.m3u8
+
+#EXTINF:-1 tvg-logo="https://images" group-title="musica",colosal tv musica
+https://5d16127744872.streamlock.net/canal3/canal3/chunklist_w1843945502.m3u8
+
+#EXTINF:-1 tvg-logo="https://images" group-title="musica",rewindtv
+https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w1631414031.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://images" group-title="musica",TV éxitos 
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
+
+#EXTINF:-1 tvg-logo="https://images" group-title="musica",full musica
+https://cloud2.streaminglivehd.com:1936/8014/8014/chunklist_w1636475039.m3u8
+
+#EXTINF:-1 tvg-logo="https://images" group-title="musica",power HD TV
+http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/chunklist_w1656362089.m3u8
 
 #EXTINF:-1 tvg-logo="https://images" group-title="deportes",
-
 #EXTINF:-1 tvg-logo="https://images" group-title="deportes",
-
+#EXTINF:-1 tvg-logo="https://images" group-title="deportes",
 #EXTINF:-1 tvg-logo="https://images" group-title="deportes",
 #EXTINF:-1 tvg-logo="https://images" group-title="deportes",
 #EXTINF:-1 tvg-logo="https://images" group-title="deportes",
