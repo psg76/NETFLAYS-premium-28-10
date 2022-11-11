@@ -446,17 +446,23 @@ https://linear-193.frequency.stream:443/193/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://images" group-title="deportes ",DEPORTV ARG
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1241676116.m3u8
 
-#EXTINF:-1 tvg-logo="https://images" group-title="deportes ",
+#EXTINF:-1 tvg-logo="https://images" group-title="deportes ",todo deportes +
+https://5fe2654d6127d.streamlock.net:443/tododeportesplus/smil:tododeportesplus.smil/chunklist_w1854785083_b3428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTEvMjAyMiA0OjUyOjE5IFBNJmhhc2hfdmFsdWU9bktRWi92M20wcTQ4S3h2a3lIejNCQT09JnZhbGlkbWludXRlcz0zNjAwJmlkPQ%3D%3D
 
-#EXTINF:-1 tvg-logo="https://images" group-title="deportes ",
+#EXTINF:-1 tvg-logo="https://images" group-title="deportes ",ESPN
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
 
-#EXTINF:-1 tvg-logo="https://images" group-title="deportes ",
+#EXTINF:-1 tvg-logo="https://images" group-title="deportes ", ESPN
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
 
-#EXTINF:-1 tvg-logo="https://images" group-title="deportes ",
+#EXTINF:-1 tvg-logo="https://images" group-title="deportes ", ESPN 2
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
 
-#EXTINF:-1 tvg-logo="https://images" group-title="deportes ",
+#EXTINF:-1 tvg-logo="https://images" group-title="deportes ", ESPN PREMIUM
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
 
-#EXTINF:-1 tvg-logo="https://images" group-title="deportes ",
+#EXTINF:-1 tvg-logo="https://images" group-title="deportes ",TNT SPORTS ARG
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
 
 #EXTINF:-1 tvg-logo="https://images" group-title="deportes ",
 
