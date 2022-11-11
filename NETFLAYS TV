@@ -464,9 +464,45 @@ https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN
 #EXTINF:-1 tvg-logo="https://images" group-title="deportes ",TNT SPORTS ARG
 https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
 
-#EXTINF:-1 tvg-logo="https://images" group-title="deportes ",
+#EXTINF:-1 tvg-logo="https://images" group-title="retro tv ", RETRO TV
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w1499306082.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://images" group-title="deportes ",
+#EXTINF:-1 tvg-logo="https://images" group-title="retro tv ", CGTN TV
+https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images" group-title="deportes ",
+#EXTINF:-1 tvg-logo="https://images" group-title="deportes",saber más
+https://sabermas-plex.amagi.tv/SaberMas-xumo/master_6.m3u8
+
+#EXTINF:-1 tvg-logo="https://images" group-title="Documental",love nature
+https://bamus-spa-roku.amagi.tv/playlist1080-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://images" group-title="musica",Astro TV musica
+https://cloud2.streaminglivehd.com:1936/8138/8138/chunklist_w1332968107.m3u8
+
+#EXTINF:-1 tvg-logo="https://images" group-title="musica",mega televisión musica
+http://k4.usastreams.com:80/videotour/videotour/chunklist_w1352456230.m3u8
+
+#EXTINF:-1 tvg-logo="https://images" group-title="musica", video tour Chanel musical
+http://k4.usastreams.com:80/videotour/videotour/chunklist_w1110834281.m3u8
+
+#EXTINF:-1 tvg-logo="https://images" group-title="musica", conecta TV  musica
+http://204.12.211.210:1935/conectatv/conectatv/chunklist_w1244398231.m3u8
+
+#EXTINF:-1 tvg-logo="https://images" group-title="musica",canal 38 musica
+https://rtmp.info/canal38/envivo/chunklist_w1233024836.m3u8
+
+#EXTINF:-1 tvg-logo="https://images" group-title="deportes",
+
+#EXTINF:-1 tvg-logo="https://images" group-title="deportes",
+
+#EXTINF:-1 tvg-logo="https://images" group-title="deportes",
+
+#EXTINF:-1 tvg-logo="https://images" group-title="deportes",
+#EXTINF:-1 tvg-logo="https://images" group-title="deportes",
+#EXTINF:-1 tvg-logo="https://images" group-title="deportes",
+#EXTINF:-1 tvg-logo="https://images" group-title="deportes",
+#EXTINF:-1 tvg-logo="https://images" group-title="deportes",
+
+
+
 
