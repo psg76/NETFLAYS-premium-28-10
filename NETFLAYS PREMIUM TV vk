@@ -1575,5 +1575,138 @@ http://200.24.159.165:9966/play/a011/index.m3u8
 http://200.24.159.165:9966/play/a05u/index.m3u8
 #EXTINF:-1,Universal
 http://200.24.159.165:9966/play/a01k/index.m3u8
-
+#EXTINF:-1,A&E HD
+http://181.78.12.166:9000/play/a03k
+#EXTINF:-1,AMC HD
+http://181.78.12.166:9000/play/a048
+#EXTINF:-1,AXN HD
+http://181.78.12.166:9000/play/a03n
+#EXTINF:-1,Avivamiento
+http://181.78.12.166:9000/play/Avivamiento
+#EXTINF:-1,Canal 13 HD
+http://181.78.12.166:9000/play/a06j
+#EXTINF:-1,Canal Institucional HD
+http://181.78.12.166:9000/play/a03s
+#EXTINF:-1,Canal Uno
+http://181.78.12.166:9000/play/a06m
+#EXTINF:-1,Caracol HD
+http://181.78.12.166:9000/play/a05v
+#EXTINF:-1,Cartoon Network HD
+http://181.78.12.166:9000/play/a049
+#EXTINF:-1,Cinemax HD
+http://181.78.12.166:9000/play/a03z
+#EXTINF:-1,City TV
+http://181.78.12.166:9000/play/a06o
+#EXTINF:-1,Comedy Central HD
+http://181.78.12.166:9000/play/a040
+#EXTINF:-1,Cristovisiðn
+http://181.78.12.166:9000/play/a06w
+#EXTINF:-1,Discovery HD
+http://181.78.12.166:9000/play/a05x
+#EXTINF:-1,Discovery Kids HD
+http://181.78.12.166:9000/play/a043
+#EXTINF:-1,Disney HD
+http://181.78.12.166:9000/play/a03u
+#EXTINF:-1,Disney Junior HD
+http://181.78.12.166:9000/play/a06b
+#EXTINF:-1,ESPN 2 HD
+http://181.78.12.166:9000/play/a03p
+#EXTINF:-1,ESPN 3 HD
+http://181.78.12.166:9000/play/a03w
+#EXTINF:-1,ESPN 4 HD
+http://181.78.12.166:9000/play/a044
+#EXTINF:-1,ESPN HD
+http://181.78.12.166:9000/play/a03r
+#EXTINF:-1,El Gourmet HD
+http://181.78.12.166:9000/play/a042
+#EXTINF:-1,Enlace
+http://181.78.12.166:9000/play/a06v
+#EXTINF:-1,Enlace Juvenil
+http://181.78.12.166:9000/play/a03j
+#EXTINF:-1,FOX Sports 2 HD
+http://181.78.12.166:9000/play/a045
+#EXTINF:-1,FX HD
+http://181.78.12.166:9000/play/a04e
+#EXTINF:-1,Fox Sports 3 HD
+http://181.78.12.166:9000/play/a03x
+#EXTINF:-1,HBO 2 HD
+http://181.78.12.166:9000/play/a04a
+#EXTINF:-1,HBO Family HD
+http://181.78.12.166:9000/play/a05y
+#EXTINF:-1,HBO HD
+http://181.78.12.166:9000/play/a04c
+#EXTINF:-1,HBO POP HD
+http://181.78.12.166:9000/play/a064
+#EXTINF:-1,HBO XTREME HD
+http://181.78.12.166:9000/play/a05z
+#EXTINF:-1,HOLA TV HD
+http://181.78.12.166:9000/play/a06a
+#EXTINF:-1,History Channel HD
+http://181.78.12.166:9000/play/a063
+#EXTINF:-1,ID HD
+http://181.78.12.166:9000/play/a06d
+#EXTINF:-1,Las Estrellas HD
+http://181.78.12.166:9000/play/a05w
+#EXTINF:-1,MTV 00s
+http://181.78.12.166:9000/play/a06c
+#EXTINF:-1,MTV LIVE HD
+http://181.78.12.166:9000/play/a06h
+#EXTINF:-1,Moda TV
+http://181.78.12.166:9000/play/a03i
+#EXTINF:-1,Movie Fe
+http://181.78.12.166:9000/play/a03a
+#EXTINF:-1,Nick HD
+http://181.78.12.166:9000/play/a03q
+#EXTINF:-1,Nick Music HD
+http://181.78.12.166:9000/play/a06i
+#EXTINF:-1,Pasiones HD
+http://181.78.12.166:9000/play/a03t
+#EXTINF:-1,RCN HD
+http://181.78.12.166:9000/play/a047
+#EXTINF:-1,Red Bull TV
+http://181.78.12.166:9000/play/a03g
+#EXTINF:-1,SOY PELICULA
+http://181.78.12.166:9000/play/a038
+#EXTINF:-1,STAR CHANNEL HD
+http://181.78.12.166:9000/play/a067
+#EXTINF:-1,Sony HD
+http://181.78.12.166:9000/play/a03l
+#EXTINF:-1,Space HD
+http://181.78.12.166:9000/play/a03o
+#EXTINF:-1,Sun Channel HD
+http://181.78.12.166:9000/play/a06f
+#EXTINF:-1,TBS Very Funny HD
+http://181.78.12.166:9000/play/a060
+#EXTINF:-1,TNT HD
+http://181.78.12.166:9000/play/a03v
+#EXTINF:-1,TNT Series HD
+http://181.78.12.166:9000/play/a04d
+#EXTINF:-1,TRO
+http://181.78.12.166:9000/play/a06n
+#EXTINF:-1,TRUTV HD
+http://181.78.12.166:9000/play/a06e
+#EXTINF:-1,TVN HD
+http://181.78.12.166:9000/play/a069
+#EXTINF:-1,Teen Nick HD
+http://181.78.12.166:9000/play/a06k
+#EXTINF:-1,Teleantioquia
+http://181.78.12.166:9000/play/a06p
+#EXTINF:-1,Telecafe
+http://181.78.12.166:9000/play/a06t
+#EXTINF:-1,Telecaribe
+http://181.78.12.166:9000/play/a06s
+#EXTINF:-1,Telefe
+http://181.78.12.166:9000/play/a06r
+#EXTINF:-1,Telepacifico
+http://181.78.12.166:9000/play/a06q
+#EXTINF:-1,Televen
+http://181.78.12.166:9000/play/a06u
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://181.78.12.166:9000/play/a06g
+#EXTINF:-1,Warner Channel HD
+http://181.78.12.166:9000/play/a03m
+#EXTINF:-1,Win Sports HD
+http://181.78.12.166:9000/play/a065
+#EXTINF:-1,Win Sports+ HD
+http://181.78.12.166:9000/play/a062
 
